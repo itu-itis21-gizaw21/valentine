@@ -1,19 +1,21 @@
 html {
     visibility: hidden;
 }
-
+/*
 @media screen and (min-width: 900px) {
-   html{
-        
+  html{
+        visibility: hidden;
    }
+
+    
 }
 
-
+*/
 #stick{
     position: fixed;
     z-index: 100;
     left: 25%;
-    ;
+    border-radius: 20%;
 }
 
 #moveButton{
@@ -21,6 +23,7 @@ html {
     z-index: 100;
     right: 25%;
     background-color: red;
+    border-radius: 20%;
 }
 .mybuttons{
     border: 1px solid black;
