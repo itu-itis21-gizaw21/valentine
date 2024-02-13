@@ -1,16 +1,16 @@
 html {
-    visibility: hidden;
+    visibility: visible;
 }
-/*
+
 @media screen and (min-width: 900px) {
   html{
-        visibility: hidden;
+        visibility: visible;
    }
 
     
 }
 
-*/
+
 #stick{
     position: fixed;
     z-index: 100;
