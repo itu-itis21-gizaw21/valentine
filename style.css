@@ -15,7 +15,7 @@ html {
     position: fixed;
     z-index: 100;
     left: 25%;
-    border-radius: 20%;
+    border-radius: 10px;
 }
 
 #moveButton{
@@ -23,7 +23,7 @@ html {
     z-index: 100;
     right: 25%;
     background-color: red;
-    border-radius: 20%;
+    border-radius: 10px;
 }
 .mybuttons{
     border: 1px solid black;
